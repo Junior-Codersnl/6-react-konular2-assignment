@@ -1,4 +1,4 @@
-# 6-react-konular2-assignment
+# 6 Konular 2. Hafta (DERSE GELMEDEN TAKIP EDILMESI GEREKIR)
 
 
 1. Hooks
