@@ -15,46 +15,11 @@
 3. Forms [video](https://www.youtube.com/watch?v=4-P_ESMChek&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=8&ab_channel=ReactDersleri), [okuma](https://qastack.info.tr/programming/23427384/get-form-data-in-reactjs)
 
 
-4. Third party React tools
-   - UI toolkits
-   - Utilities
-   Third party React tools can roughly be divided into 2 categories:
-
-1. UI toolkits
-2. Utilities
-
-### UI toolkits
-
-These kind of component libraries serve to **structure your user interface**. If you've ever worked with a CSS framework, this is what it means.
-
-Popular presentational component libraries are the following:
-
-- [Semantic UI](https://react.semantic-ui.com/)
-- [Material UI](https://material-ui.com/)
-- [Shards](https://designrevision.com/docs/shards-react/getting-started)
-
-All of these are called `UI toolkits` and provide components that structure a particular part of your page.
-
-For example, Let's say you want to add a `button` component in your form. You could make it yourself. Or you could take it from the toolkit!
-
-```js
-import React from "react";
-import { Button } from "semantic-ui-react";
-
-const ButtonExampleButton = () => <Button>Click Here</Button>;
-
-export default ButtonExampleButton;
-```
-
-### Utilities
-
-There are also tools that solve certain problems within the React ecosystem.
-
-- [Enzyme](https://github.com/airbnb/enzyme) is a React-specific component testing tool, that makes it easier to test your React Components' output
-- [Redux](https://redux.js.org/introduction/getting-started) is a state management tool, used to make it possible to connect every component directly to the entire state and thus eliminates the need to use props or callbacks.
-- [React Intl](https://github.com/formatjs/react-intl) is a tool that provides an application the ability to have multiple languages (English, Dutch, etc.) within the application
-
-All of these tools are not necessarily React-specific, but allow us to use React in order to create more engaging, feature-rich applications.
+4. Üçüncü taraf React araçları
+   - UI toolkits [Semantic UI](https://react.semantic-ui.com/), [Material UI](https://material-ui.com/) , [Shards](https://designrevision.com/docs/shards-react/getting-started)
+   - Utilities (Araçlar) [Enzyme](https://github.com/airbnb/enzyme), [Redux](https://redux.js.org/introduction/getting-started), [React Intl](https://github.com/formatjs/react-intl)
+   
+   
    
    egsersiz
    https://www.freecodecamp.org/learn/front-end-libraries/react/
