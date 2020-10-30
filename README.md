@@ -20,6 +20,5 @@
    - Utilities (Araçlar) [Enzyme](https://github.com/airbnb/enzyme), [Redux](https://redux.js.org/introduction/getting-started), [React Intl](https://github.com/formatjs/react-intl)
    
    
-   
-   egsersiz
-   https://www.freecodecamp.org/learn/front-end-libraries/react/
+  #  React kod egsersizi (DERSTEN SONRA YAPILACAKTIR)
+   [egsersiz linki](https://www.freecodecamp.org/learn/front-end-libraries/react/)
